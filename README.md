@@ -7,7 +7,7 @@
 
 | Role | Type | Location | 
 |---------|------|----------|
-| [Earth Angel] | Job | Mountain View, CA |
+| Earth Angel | Job | Mountain View, CA |
 | [Microsoft](#microsoft) | SWE Intern | Seattle, WA |
 
 <a id="nonprofit"></a>

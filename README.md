@@ -7,7 +7,7 @@
 
 | Role | Type | Location |  Application/Link |
 |---------|------|----------| ---------------- |
-| Land Trust for Louisiana | Job | Mountain View, CA | https://landtrustforlouisiana.org/land-trust-for-louisiana-hiring-office-administrator/?utm_source=Frost+Center+Newsletter&utm_campaign=bed7ca3d96-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-%5BLIST_EMAIL_ID%5D|
+| Land Trust for Louisiana (#nonprofit) | Job | Hammond, LA | https://landtrustforlouisiana.org/land-trust-for-louisiana-hiring-office-administrator/?utm_source=Frost+Center+Newsletter&utm_campaign=bed7ca3d96-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-%5BLIST_EMAIL_ID%5D|
 | [Microsoft](#microsoft) | SWE Intern | Seattle, WA |
 
 <a id="nonprofit"></a>

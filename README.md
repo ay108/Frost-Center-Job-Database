@@ -7,8 +7,8 @@
 
 | Role | Type | Location |  Application/Link |
 |---------|------|----------| ---------------- |
-| Land Trust for Louisiana (#nonprofit) | Job | Hammond, LA | https://landtrustforlouisiana.org/land-trust-for-louisiana-hiring-office-administrator/?utm_source=Frost+Center+Newsletter&utm_campaign=bed7ca3d96-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-%5BLIST_EMAIL_ID%5D|
-| [Microsoft](#microsoft) | SWE Intern | Seattle, WA |
+| Land Trust for Louisiana | Job | Hammond, LA | https://landtrustforlouisiana.org/land-trust-for-louisiana-hiring-office-administrator/?utm_source=Frost+Center+Newsletter&utm_campaign=bed7ca3d96-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-%5BLIST_EMAIL_ID%5D|
+
 
 <a id="nonprofit"></a>
 ## NonProfit Work
@@ -16,16 +16,14 @@
 
 | Role | Type | Location |  Application/Link |
 |---------|------|----------| ---------------- |
-| Earth Angel | Job | Mountain View, CA |
-| Microsoft | SWE Intern | Redmond, WA |
+| Land Trust for Louisiana | Job | Hammond, LA | https://landtrustforlouisiana.org/land-trust-for-louisiana-hiring-office-administrator/?utm_source=Frost+Center+Newsletter&utm_campaign=bed7ca3d96-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-%5BLIST_EMAIL_ID%5D|
 
-<a id="aiml"></a>
-## AI/ML
+<a id="policy"></a>
+## Policy and Consulting
 [↑ Back to top](#top)
 
 | Role | Type | Location |  Application/Link |
 |---------|------|----------| ---------------- |
-| OpenAI | Research Intern | Remote |
-| NVIDIA | AI Intern | Santa Clara, CA |
+| Reduction In Motion | Sustainability Project Coordinator | Baltimore, Maryland| https://landtrustforlouisiana.org/land-trust-for-louisiana-hiring-office-administrator/?utm_source=Frost+Center+Newsletter&utm_campaign=bed7ca3d96-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-%5BLIST_EMAIL_ID%5D|| NVIDIA | AI Intern | Santa Clara, CA |
 
 <a id="top"></a> <!-- This anchor at the bottom makes the "Back to top" links work -->

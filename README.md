@@ -7,15 +7,15 @@
 
 | Role | Type | Location |  Application/Link |
 |---------|------|----------| ---------------- |
-| Earth Angel | Job | Mountain View, CA |
+| Land Trust for Louisiana | Job | Mountain View, CA | https://landtrustforlouisiana.org/land-trust-for-louisiana-hiring-office-administrator/?utm_source=Frost+Center+Newsletter&utm_campaign=bed7ca3d96-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-%5BLIST_EMAIL_ID%5D|
 | [Microsoft](#microsoft) | SWE Intern | Seattle, WA |
 
 <a id="nonprofit"></a>
 ## NonProfit Work
 [↑ Back to top](#top)
 
-| Role | Type | Location |
-|---------|------|----------|
+| Role | Type | Location |  Application/Link |
+|---------|------|----------| ---------------- |
 | Earth Angel | Job | Mountain View, CA |
 | Microsoft | SWE Intern | Redmond, WA |
 
@@ -23,8 +23,8 @@
 ## AI/ML
 [↑ Back to top](#top)
 
-| Company | Role | Location |
-|---------|------|----------|
+| Role | Type | Location |  Application/Link |
+|---------|------|----------| ---------------- |
 | OpenAI | Research Intern | Remote |
 | NVIDIA | AI Intern | Santa Clara, CA |
 

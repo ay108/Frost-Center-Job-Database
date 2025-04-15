@@ -2,21 +2,21 @@
 [All](#all) • [NonProfit Work](#nonprofit) • [Policy and Consulting](#policy) • [Technology and Renewable Energy](#tech) • [Government](#government) • [Environmental Justice](#justice) • [Sustainability and Energy](#susenergy) • [Nature, Ecology, and Conservation](#nature) • [Health and Safety](#safety) • [Media](#media) • [Graduate School](#school) • [Training](#training) • [Geoscience](#geo) • [Fellowship/Scholarship](#scholar) • [Miscellaneous](#mis) • [Research](#research) • [Marketing/Management](#marketing)
 
 <a id="all"></a>
-## All Internships
+## All
 [↑ Back to top](#top)
 
-| Company | Role | Location | 
+| Role | Type | Location | 
 |---------|------|----------|
-| [Google](#google) | SWE Intern | Mountain View, CA |
+| [Earth Angel](#google) | Job | Mountain View, CA |
 | [Microsoft](#microsoft) | SWE Intern | Seattle, WA |
 
-<a id="swe"></a>
-## Software Engineering
+<a id="nonprofit"></a>
+## NonProfit Work
 [↑ Back to top](#top)
 
-| Company | Role | Location |
+| Role | Type | Location |
 |---------|------|----------|
-| Google | SWE Intern | Mountain View, CA |
+| Earth Angel | Job | Mountain View, CA |
 | Microsoft | SWE Intern | Redmond, WA |
 
 <a id="aiml"></a>

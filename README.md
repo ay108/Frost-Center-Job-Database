@@ -1,14 +1,23 @@
-# Frost-Center-Job-Database
+<details>
+<summary>🔍 Filter Internships (Click to Expand)</summary>
 
-# Summer 2025 Tech Internships 🚀  
-*A collaborative list of internships in the U.S., Canada, and Remote.*  
+[All](#) • 
+[SWE](#swe) • 
+[AI/ML](#aiml) • 
+[Remote](#remote) • 
+[Sponsorship](#sponsor) • 
+[US Only](#us-only)
 
-## **Legend**  
-🛂 - No Sponsorship | 🇺🇸 - US Citizenship Required | 🔒 - Closed  
+</details>
 
-## **The List**  
-| Company | Role | Location | Application | Date Posted |  
-|---------|------|----------|-------------|-------------|  
-| [ByteDance](link) | SWE Intern | San Jose, CA | [Apply](#) | Apr 10 |  
-| [Tesla](link) | Data Engineer Intern | Palo Alto, CA | [Apply](#) | Apr 9 |  
-| [Rocket Lawyer](link) | AI/ML Intern | Remote | [Apply](#) | Apr 14 |  
+<h2 id="swe">Software Engineering</h2>
+[Back to top](#)
+| Company | Role | Location |
+|---------|------|----------|
+| Google | SWE Intern | Mountain View |
+
+<h2 id="aiml">AI/ML</h2>
+[Back to top](#)
+| Company | Role | Location |
+|---------|------|----------|
+| OpenAI

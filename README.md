@@ -7,7 +7,7 @@
 
 | Role | Type | Location | 
 |---------|------|----------|
-| [Earth Angel](#https://www.earthangelsets.com/become-an-eco-rep?utm_source=Frost+Center+Newsletter&utm_campaign=61e1073cfe-EMAIL_CAMPAIGN_2023_09_08_01_17&utm_medium=email&utm_term=0_-61e1073cfe-%5BLIST_EMAIL_ID%5D) | Job | Mountain View, CA |
+| [Earth Angel] | Job | Mountain View, CA |
 | [Microsoft](#microsoft) | SWE Intern | Seattle, WA |
 
 <a id="nonprofit"></a>

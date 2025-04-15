@@ -1,5 +1,5 @@
 🔍 **Filter Internships**  
-[All](#all) • [SWE](#swe) • [AI/ML](#aiml) • [Remote](#remote) • [Sponsorship](#sponsor) • [US Only](#us-only)
+[All](#all) • [NonProfit Work](#nonprofit) • [Policy and Consulting](#policy) • [Technology and Renewable Energy](#tech) • [Government](#government) • [Environmental Justice](#justice)
 
 <a id="all"></a>
 ## All Internships

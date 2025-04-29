@@ -1,5 +1,5 @@
 🔍 **Filter**  
-[All](#all) • [NonProfit Work](#nonprofit) • [Policy and Consulting](#policy) • [Technology and Renewable Energy](#tech) • [Education](#education) • [Environmental Justice](#justice) • [Sustainability and Energy](#susenergy) • [Nature, Ecology, and Conservation](#nature) • [Water Bodies](#water) • [Media](#media) • [Graduate School](#school) • [Training](#training) • [Miscellaneous](#mis) • [Research](#research) • [Marketing/Management](#marketing)
+[All](#all) • [NonProfit Work](#nonprofit) • [Policy and Consulting](#policy) • [Technology and Renewable Energy](#tech) • [Government](#gov) • [Education](#education) • [Environmental Justice](#justice) • [Sustainability and Energy](#susenergy) • [Nature, Ecology, and Conservation](#nature) • [Water Bodies](#water) • [Health and Safety](#saf) • [Media](#media) • [Graduate School](#school) • [Training](#training) • [Geoscience](#geo) • [Fellowship/Scholarship](#scholar) • [Miscellaneous](#mis) • [Research](#research) • [Marketing/Management](#marketing)
 
 <a id="nonprofit"></a>
 ## NonProfit Work
@@ -30,6 +30,13 @@
 | LEED Green Associate (GA) Training | Training | Online | [https://summerjobsthatmatter.org/](https://leadinggreen.com/online-leed-green-associate/?utm_source=Frost+Center+Newsletter&utm_campaign=4d9cce532f-EMAIL_CAMPAIGN_2022_11_23_06_39&utm_medium=email&utm_term=0_-4d9cce532f-%5BLIST_EMAIL_ID%5D&utm_source=Frost+Center+Newsletter&utm_campaign=cc065c1557-EMAIL_CAMPAIGN_2023_12_05_04_57&utm_medium=email&utm_term=0_-cc065c1557-%5BLIST_EMAIL_ID%5D)|
 | Management Trainee |  Job | Sacramento & Bay Area candidates| [https://summerjobsthatmatter.org/](https://www.mydistributorjobs.com/Public/Openings.html?utm_source=Frost+Center+Newsletter&utm_campaign=29cb81f2fd-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-%5BLIST_EMAIL_ID%5D#/details/-M3DWLGsvP4j31VUtKgI1g)|
 | Coalition Manager |  Job | MA | [https://summerjobsthatmatter.org/](https://www.environmentalleague.org)|
+
+<a id="gov"></a>
+## Government
+[↑ Back to top](#top)
+
+| Role | Type | Location |  Application/Link |
+|---------|------|----------| ---------------- |
 
 <a id="education"></a>
 ## Education
@@ -66,14 +73,6 @@
 
 | Role | Type | Location |  Application/Link |
 |---------|------|----------| ---------------- |
-| Summer Campaign Job Opportunities (Fund for the Public Interest) |  Job | Various Locations| https://summerjobsthatmatter.org/|
-
-<a id="nature"></a>
-## Nature, Ecology, and Conservation
-[↑ Back to top](#top)
-
-| Role | Type | Location |  Application/Link |
-|---------|------|----------| ---------------- |
 | Ecological Horticulturist |  Job | MA | [https://summerjobsthatmatter.org/](https://www.sweetgumhorticulture.com/careers.html)|
 | Landscape Architecture + Urbanism Intern |Intern |Boston/LA| [https://summerjobsthatmatter.org/](https://stoss-inc.breezy.hr/p/0c097b3f0ae1-internship-landscape-architecture-urbanism?utm_source=Frost+Center+Newsletter&utm_campaign=91142851d0-EMAIL_CAMPAIGN_2023_11_14_03_22&utm_medium=email&utm_term=0_-91142851d0-%5BLIST_EMAIL_ID%5D)|
 | Landscape Designer|  Job | Boston/LA| [https://summerjobsthatmatter.org/](https://stoss-inc.breezy.hr/p/d4fcbdb5b7ec-landscape-designer-boston-ma-los-angeles-ca?utm_source=Frost+Center+Newsletter&utm_campaign=91142851d0-EMAIL_CAMPAIGN_2023_11_14_03_22&utm_medium=email&utm_term=0_-91142851d0-%5BLIST_EMAIL_ID%5D)|
@@ -98,6 +97,12 @@
 | Aquarium Education Internship - Summer 2025 | Intern | Newport, RI| [https://summerjobsthatmatter.org/](https://volunteer.savebay.org/need/detail/?need_id=1031638&utm_source=Frost+Center+Newsletter&utm_campaign=3b21b5d135-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-)|
 | Sea Turtle Conservation & Research Internship | Intern | Sarasota, Florida| [https://summerjobsthatmatter.org/](https://mote.org/internships/college/sea-turtle-conservation/?utm_source=Frost+Center+Newsletter&utm_campaign=3b21b5d135-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-)|
 
+<a id="saf"></a>
+## Health and Safety
+[↑ Back to top](#top)
+
+| Role | Type | Location |  Application/Link |
+|---------|------|----------| ---------------- |
 
 <a id="media"></a>
 ## Media
@@ -130,6 +135,20 @@
 | LEED Green Associate (GA) Training |  Training  | Remote| [https://summerjobsthatmatter.org/](https://leadinggreen.com/online-leed-green-associate/?utm_source=Frost+Center+Newsletter&utm_campaign=4d9cce532f-EMAIL_CAMPAIGN_2022_11_23_06_39&utm_medium=email&utm_term=0_-4d9cce532f-%5BLIST_EMAIL_ID%5D)|
 | Wellesley College Botanic Gardens Memorial Fund |  Educational Grant | Wellesley College Botanic Gardens| https://summerjobsthatmatter.org/|
 | Emerging Leaders Program- Cohort Member |  Program | Washington Trails Association| [https://summerjobsthatmatter.org/](https://www.wta.org/login?came_from=/our-work/about/job-opportunities-careers/elp-cohort-member-2025.pdf%3Futm_source%3DFrost%2BCenter%2BNewsletter%26utm_campaign%3D6fd3fe6e79-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01%26utm_medium%3Demail%26utm_term%3D0_-e227c36cc1-%255BLIST_EMAIL_ID%255D)|
+
+<a id="geo"></a>
+## Geoscience
+[↑ Back to top](#top)
+
+| Role | Type | Location |  Application/Link |
+|---------|------|----------| ---------------- |
+
+<a id="scholar"></a>
+## Fellowship/Scholarship
+[↑ Back to top](#top)
+
+| Role | Type | Location |  Application/Link |
+|---------|------|----------| ---------------- |
 
 <a id="mis"></a>
 ## Miscellaneous

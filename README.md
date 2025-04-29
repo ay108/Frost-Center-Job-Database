@@ -126,7 +126,10 @@
 
 | Role | Type | Location |  Application/Link |
 |---------|------|----------| ---------------- |
-| Summer Campaign Job Opportunities (Fund for the Public Interest) |  Job | Various Locations| https://summerjobsthatmatter.org/|
+| LEED Green Associate (GA) Training |  Training  | Remote| [https://summerjobsthatmatter.org/](https://leadinggreen.com/online-leed-green-associate/?utm_source=Frost+Center+Newsletter&utm_campaign=4d9cce532f-EMAIL_CAMPAIGN_2022_11_23_06_39&utm_medium=email&utm_term=0_-4d9cce532f-%5BLIST_EMAIL_ID%5D&utm_source=Frost+Center+Newsletter&utm_campaign=cc065c1557-EMAIL_CAMPAIGN_2023_12_05_04_57&utm_medium=email&utm_term=0_-cc065c1557-%5BLIST_EMAIL_ID%5D)|
+| LEED Green Associate (GA) Training |  Training  | Remote| [https://summerjobsthatmatter.org/](https://leadinggreen.com/online-leed-green-associate/?utm_source=Frost+Center+Newsletter&utm_campaign=4d9cce532f-EMAIL_CAMPAIGN_2022_11_23_06_39&utm_medium=email&utm_term=0_-4d9cce532f-%5BLIST_EMAIL_ID%5D)|
+| Wellesley College Botanic Gardens Memorial Fund |  Educational Grant | Wellesley College Botanic Gardens| https://summerjobsthatmatter.org/|
+| Emerging Leaders Program- Cohort Member |  Program | Washington Trails Association| [https://summerjobsthatmatter.org/](https://www.wta.org/login?came_from=/our-work/about/job-opportunities-careers/elp-cohort-member-2025.pdf%3Futm_source%3DFrost%2BCenter%2BNewsletter%26utm_campaign%3D6fd3fe6e79-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01%26utm_medium%3Demail%26utm_term%3D0_-e227c36cc1-%255BLIST_EMAIL_ID%255D)|
 
 <a id="mis"></a>
 ## Miscellaneous
@@ -134,7 +137,7 @@
 
 | Role | Type | Location |  Application/Link |
 |---------|------|----------| ---------------- |
-| Summer Campaign Job Opportunities (Fund for the Public Interest) |  Job | Various Locations| https://summerjobsthatmatter.org/|
+| Transportation Planner - Operations Planning |  Job | New York, NY| [https://summerjobsthatmatter.org/](https://careers.mta.org/jobs/13369307-transportation-planner-operations-planning?utm_source=Frost+Center+Newsletter&utm_campaign=e227c36cc1-EMAIL_CAMPAIGN_2024_02_15_04_14&utm_medium=email&utm_term=0_-e227c36cc1-%5BLIST_EMAIL_ID%5D)|
 
 <a id="research"></a>
 ## Research
@@ -142,7 +145,7 @@
 
 | Role | Type | Location |  Application/Link |
 |---------|------|----------| ---------------- |
-| Summer Campaign Job Opportunities (Fund for the Public Interest) |  Job | Various Locations| https://summerjobsthatmatter.org/|
+| Student | Program | Various Locations| [https://summerjobsthatmatter.org/](https://ecofs.org/?utm_source=Frost%20Center%20Newsletter&utm_campaign=06b4175ade-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-%5BLIST_EMAIL_ID%5D)|
 
 <a id="marketing"></a>
 ## Marketing/Management
@@ -150,6 +153,8 @@
 
 | Role | Type | Location |  Application/Link |
 |---------|------|----------| ---------------- |
-| Summer Campaign Job Opportunities (Fund for the Public Interest) |  Job | Various Locations| https://summerjobsthatmatter.org/|
+| Marketing Manager |  Job | Remote | [https://summerjobsthatmatter.org/](https://conservationalliance.com/wp-content/uploads/2024/10/Marketing-Manager-Job-Description.pdf?utm_source=Frost+Center+Newsletter&utm_campaign=06b4175ade-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-%5BLIST_EMAIL_ID%5D)|
+| Communication Intern | Intern | Washington, D.C.| [https://summerjobsthatmatter.org/](https://www.eesi.org/internships/communications-and-policy?utm_source=Frost+Center+Newsletter&utm_campaign=55624172e4-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_02&utm_medium=email&utm_term=0_-e227c36cc1-237418790)|
+| Marketing & Communications Manager |  Job | Mount Kisco, NY| [https://summerjobsthatmatter.org/](https://job-boards.greenhouse.io/sustainablewestchester?error=true)|
 
 <a id="top"></a> <!-- This anchor at the bottom makes the "Back to top" links work -->

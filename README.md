@@ -17,5 +17,7 @@
 |---------|------|----------| ---------------- |
 | Sustainability Project Coordinator (Reduction In Motion)| Job | Baltimore, Maryland| https://reductioninmotion.bamboohr.com/careers/42?utm_source=Frost+Center+Newsletter&utm_campaign=e87d34938a-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_10&utm_medium=email&utm_term=0_-e227c36cc1-%5BLIST_EMAIL_ID%5D|
 | Summer Campaign Job Opportunities (Fund for the Public Interest) |  Job | Various Locations| https://summerjobsthatmatter.org/|
+| Congressional Intern | Intern | Congressional Hispanic Caucus Institute| https://summerjobsthatmatter.org/|
+| Field Technician |  Job | Foxborough, MA| https://summerjobsthatmatter.org/|
 
 <a id="top"></a> <!-- This anchor at the bottom makes the "Back to top" links work -->

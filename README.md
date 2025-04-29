@@ -81,7 +81,7 @@
 | Natural Resources Internship Program| Intern | Craig, CO| [https://summerjobsthatmatter.org/](https://www.rockymountainyouthcorps.org/internships?utm_source=Frost+Center+Newsletter&utm_campaign=c701f18171-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-%5BLIST_EMAIL_ID%5D)|
 | Planting Program Coordinator |  Job | CA | [https://summerjobsthatmatter.org/](https://static1.squarespace.com/static/545bbd7ee4b032c1794c4020/t/66a655892712c0641233c852/1722176906214/Planting+Coordinator+Job+Description.pdf?utm_source=Frost+Center+Newsletter&utm_campaign=29cb81f2fd-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-%5BLIST_EMAIL_ID%5D)|
 | Stewardship and Outreach Intern | Intern | MA | [https://summerjobsthatmatter.org/](https://brewsterconservationtrust.org/wp-content/uploads/2025/02/STEWARDSHIP-AND-OUTREACH_-Intern-Job-POSTING_2025.pdf?utm_source=Frost+Center+Newsletter&utm_campaign=55624172e4-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_02&utm_medium=email&utm_term=0_-e227c36cc1-237418790)|
-| Land Stewardship Intern | Intern | Various Locations| https://summerjobsthatmatter.org/|
+| Land Stewardship Intern | Intern | MA | [https://summerjobsthatmatter.org/](https://brewsterconservationtrust.org/wp-content/uploads/2025/02/LAND-STEWARDSHIP_Summer-Intern-Job-Posting_2025.pdf?utm_source=Frost+Center+Newsletter&utm_campaign=55624172e4-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_02&utm_medium=email&utm_term=0_-e227c36cc1-237418790)|
 
 <a id="water"></a>
 ## Water Bodies
@@ -89,7 +89,14 @@
 
 | Role | Type | Location |  Application/Link |
 |---------|------|----------| ---------------- |
-| Summer Campaign Job Opportunities (Fund for the Public Interest) |  Job | Various Locations| https://summerjobsthatmatter.org/|
+| Marine Laboratory Intern |  Intern  | MOTE Marine Laboratory and Aquarium| [https://summerjobsthatmatter.org/](https://mote.org/internships/college/)|
+| Sea Change: The Colby at Bigelow Semester Program | Study Abroad |Maine| [https://summerjobsthatmatter.org/](https://www.bigelow.org/education/seachange/?utm_source=Frost+Center+Newsletter&utm_campaign=41bf41d0bf-EMAIL_CAMPAIGN_2023_03_22_03_11&utm_medium=email&utm_term=0_-41bf41d0bf-%5BLIST_EMAIL_ID%5D)|
+| Student | Program | MA| [https://summerjobsthatmatter.org/](https://mystic.williams.edu/admissions/apply-now/?utm_source=Frost%20Center%20Newsletter&utm_campaign=400b4d43bc-EMAIL_CAMPAIGN_2023_11_21_06_57&utm_medium=email&utm_term=0_-400b4d43bc-%5BLIST_EMAIL_ID%5D)|
+| Water Resources Design Intern | Intern  | Greenville, SC| [https://summerjobsthatmatter.org/](https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7882525c23e80b015c3262ae5c4da0&id=8a7883a89157fe0b01915ccd83b12a11&source=&lang=en&utm_source=Frost+Center+Newsletter&utm_campaign=7c0ff70f84-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-%5BLIST_EMAIL_ID%5D)|
+| Iceland Intern |  Intern  | Remote | [https://summerjobsthatmatter.org/](https://www.wayup.com/i-Research-j-Iceland-Internship-Environmental-Science-Global-Treks-and-Adventures-832952405051055/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-960707-33983851&refer=lnkslot-APPS-960707-33983851&utm_source=Frost+Center+Newsletter&utm_campaign=7c0ff70f84-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-%5BLIST_EMAIL_ID%5D)|
+| Intern | Intern | Perry Institute for Marine Science | [https://summerjobsthatmatter.org/](https://www.perryinstitute.org/internship/?utm_source=google&utm_campaign=20015730871&utm_content=149098695100&utm_term=marine%20conservation%20internships&utm_medium=655764398139&gad_source=1&gclid=CjwKCAiAxKy5BhBbEiwAYiW--8dxFcfjchkl61RxZdaO-57Vf-_R7a5xEkgAdoWmlbe-h3yNzeh3LxoChREQAvD_BwE&utm_source=Frost+Center+Newsletter&utm_campaign=cc939a7e0a-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-237418790)|
+| Aquarium Education Internship - Summer 2025 | Intern | Newport, RI| [https://summerjobsthatmatter.org/](https://volunteer.savebay.org/need/detail/?need_id=1031638&utm_source=Frost+Center+Newsletter&utm_campaign=3b21b5d135-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-)|
+| Sea Turtle Conservation & Research Internship | Intern | Sarasota, Florida| [https://summerjobsthatmatter.org/](https://mote.org/internships/college/sea-turtle-conservation/?utm_source=Frost+Center+Newsletter&utm_campaign=3b21b5d135-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-)|
 
 
 <a id="media"></a>
@@ -98,7 +105,8 @@
 
 | Role | Type | Location |  Application/Link |
 |---------|------|----------| ---------------- |
-| Summer Campaign Job Opportunities (Fund for the Public Interest) |  Job | Various Locations| https://summerjobsthatmatter.org/|
+| Social Content Producer |  Job | Remote| [https://summerjobsthatmatter.org/](https://ontologie.notion.site/Social-Content-Producer-ad4907c404e946dba2a12033b4e14ac8)|
+| Mentee Program | Mentorship | Remote | [https://summerjobsthatmatter.org/](https://sej.submittable.com/submit/181667/mentor-program-mentee-application?utm_source=Frost+Center+Newsletter&utm_campaign=9cb3e90152-EMAIL_CAMPAIGN_2023_03_02_05_34&utm_medium=email&utm_term=0_-9cb3e90152-%5BLIST_EMAIL_ID%5D)|
 
 
 <a id="school"></a>
@@ -107,7 +115,10 @@
 
 | Role | Type | Location |  Application/Link |
 |---------|------|----------| ---------------- |
-| Summer Campaign Job Opportunities (Fund for the Public Interest) |  Job | Various Locations| https://summerjobsthatmatter.org/|
+| Environmental Education and Science Communication Graduate Student| Graduate School | University of Idaho| [https://summerjobsthatmatter.org/](https://www.uidaho.edu/cnr/gradschool-redefined)|
+| Ph.D. Graduate Student Candidate, University of Cincinnati | Graduate School | University of Cincinnati| [https://summerjobsthatmatter.org/](https://www.ucterrestrialhydrology.org)|
+| Ph.D. student, Department of Geography | Graduate School| Florida State University| [https://summerjobsthatmatter.org/](https://cosspp.fsu.edu/geography/graduate/phd/?utm_source=Frost+Center+Newsletter&utm_campaign=9d601d7dff-EMAIL_CAMPAIGN_2024_02_15_04_14_COPY_01&utm_medium=email&utm_term=0_-e227c36cc1-237418790)|
+| M.A. or Ph.D. student, Ecology, Spirituality, and Religion |  Graduate School | California Institute of Integral Studies| [https://summerjobsthatmatter.org/](https://www.ciis.edu/academics/department-ecology-spirituality-and-religion?utm_campaign=info-invite&utm_content=info-ESR&utm_medium=email&utm_source=admissions)|
 
 <a id="training"></a>
 ## Training
